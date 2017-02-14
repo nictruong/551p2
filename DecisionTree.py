@@ -225,8 +225,6 @@ def finalPrediction(input, testInput):
 		writer.writerows(predictions)
 
 
-
-
 def parseInput(rawInput, words):
 
 	print "Parsing input..."
